@@ -1,4 +1,4 @@
-### Hi there 👋
+![chipfuzz](https://res.cloudinary.com/mighil/image/upload/v1635698763/chipfuzz_vqamq3.gif "chipfuzz animation")
 
 <!--
 **migftw/migftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
