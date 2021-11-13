@@ -1,4 +1,4 @@
-### ✅ welcome to chipland.
+### 💡 welcome to chipland.
 
 ![chipfuzz](https://res.cloudinary.com/mighil/image/upload/v1635698763/chipfuzz_vqamq3.gif "chipfuzz animation")
 
