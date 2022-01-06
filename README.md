@@ -1,7 +1,8 @@
-### 💡 welcome to the chipland.
-
-![chipfuzz](https://res.cloudinary.com/mighil/image/upload/v1635698763/chipfuzz_vqamq3.gif "chipfuzz animation")
-
+<p align="center">
+<img src="https://res.cloudinary.com/mighil/image/upload/v1635698763/chipfuzz_vqamq3.gif" alt="chipfuzz animation">
+<br>
+<code>☝️ made in procreate</code> <code>📧 info(at)minimalquest.in</code>
+</p>
 <!--
 **migftw/migftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
