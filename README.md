@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b> 👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://jotzilla.in/">Jotzilla</a></b>
+    <b> 👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://jotzilla.net/">Jotzilla</a></b>
   </h1>
   <p align="center">  
    <a href="https://github.com/migftw">
@@ -9,7 +9,7 @@
   <a href="https://mighil.com">
     <img src="https://img.shields.io/badge/website-mighil.com-1BC?logo=react&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://jotzilla.in/">
+  <a href="https://jotzilla.net/">
     <img src="https://img.shields.io/badge/website-jotzilla.in-1BC?logo=react&logoColor=white&style=flat-square" />
   </a>  
   <a href="https://www.linkedin.com/in/mighil">
