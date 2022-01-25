@@ -4,6 +4,7 @@
   </h1>
   <p align="center">
     <samp>🎵 Musican | ⚙️ Web Tinkerer | 💼 Digital Consulant</samp>
+  <img alt="GitHub Stats" src="https://res.cloudinary.com/mighil/image/upload/v1643136561/jotzilla/pages/digital-consulting.png" />
   </p>
 </p>
 
