@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b> 👋 Hello there, I'm <a href="https://github.com/migftw">@migftw</a> a.k.a. <a href="https://github.com/jotzilla">@jotzilla</a></b>
+    <b> 👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https:/jotzilla.in">Jotzilla</a></b>
   </h1>
   <p align="center">
     <samp>🎵 Musican | ⚙️ Web Tinkerer | 💼 Digital Consulant</samp>
