@@ -1,7 +1,7 @@
 <p>
-  <h1 align="center">
-    <b> 👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://jotzilla.net/">Jotzilla</a></b>
-  </h1>
+  <h2 align="center">
+    👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://jotzilla.net/">Jotzilla</a>
+  </h2>
   <p align="center">  
    <a href="https://github.com/migftw">
     <img src="https://img.shields.io/badge/github-migftw-211F1F?logo=github&logoColor=white&style=flat-square" />
