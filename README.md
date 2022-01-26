@@ -17,7 +17,7 @@
   </a>
   <img alt="Mr. fuzz" src="https://res.cloudinary.com/mighil/image/upload/v1643136561/jotzilla/pages/digital-consulting.png" />
   <br>
-<code>☝️ Mr.fuzz. Made in procreate</code>
+<code>☝️ chipfuzz. Made in procreate</code>
   </p>
 </p>
 <!--
