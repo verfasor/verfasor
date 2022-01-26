@@ -15,9 +15,9 @@
   <a href="https://www.linkedin.com/in/mighil">
     <img src="https://img.shields.io/badge/linkedin-mighil-0072B1?logo=linkedin&style=flat-square" />
   </a>
-  <img alt="Mr. fuzz" src="https://res.cloudinary.com/mighil/image/upload/v1643136561/jotzilla/pages/digital-consulting.png" />
+  <a href="https://jotzilla.net/"><img alt="Mr. chipfuzz" src="https://raw.githubusercontent.com/migftw/migftw/main/jotzilla.png" /></a>
   <br>
-<code>☝️ chipfuzz. Made in procreate</code>
+<code>☝️ chipfuzz mascot. Made in procreate</code>
   </p>
 </p>
 <!--
