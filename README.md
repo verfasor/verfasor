@@ -6,9 +6,6 @@
    <a href="https://github.com/migftw">
     <img src="https://img.shields.io/badge/github-migftw-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://mighil.com">
-    <img src="https://img.shields.io/badge/website-mighil.com-1BC?logo=react&logoColor=white&style=flat-square" />
-  </a>
   <a href="https://jotzilla.net/">
     <img src="https://img.shields.io/badge/website-jotzilla.net-211F1F?logo=react&logoColor=pink&style=flat-square" />
   </a>  
