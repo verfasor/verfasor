@@ -16,7 +16,7 @@
   <p align="center">  
   <a href="https://jotzilla.net/"><img alt="Mr. chipfuzz" src="https://res.cloudinary.com/mighil/image/upload/v1643212375/jotzilla/pages/mighil-resume.png" /></a>
   <br>
-<code>☝️ chipfuzz. Made in procreate. <a href="https://jotzilla.net/wordpress-seo-tips-to-grow-your-organic-traffic/">latest article</a></code>
+<code>☝️ chipfuzz. Made in procreate. <a href="https://jotzilla.net/how-to-use-blockchain-in-the-metaverse/">latest article</a></code>
   </p>
 </p>
 <!--
