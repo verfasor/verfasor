@@ -1,22 +1,22 @@
 <p>
   <h2 align="center">
-    👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://jotzilla.net/">Jotzilla</a>
+    👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://verfasor.com/">Verfasor</a>
   </h2>
   <p align="center">  
    <a href="https://github.com/migftw">
     <img src="https://img.shields.io/badge/github-migftw-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://jotzilla.net/">
-    <img src="https://img.shields.io/badge/website-jotzilla.net-211F1F?logo=react&logoColor=pink&style=flat-square" />
+  <a href="https://verfasor.com/">
+    <img src="https://img.shields.io/badge/website-verfasor.com-211F1F?logo=react&logoColor=pink&style=flat-square" />
   </a>  
   <a href="https://www.linkedin.com/in/mighil">
     <img src="https://img.shields.io/badge/linkedin-mighil-0072B1?logo=linkedin&style=flat-square" />
   </a>
   </p>
   <p align="center">  
-  <a href="https://jotzilla.net/"><img alt="Mr. chipfuzz" src="https://res.cloudinary.com/mighil/image/upload/v1643212375/jotzilla/pages/mighil-resume.png" /></a>
+  <a href="https://verfasor.com/"><img alt="Mr. chipfuzz" src="https://res.cloudinary.com/mighil/image/upload/v1643212375/jotzilla/pages/mighil-resume.png" /></a>
   <br>
-<code>☝️ chipfuzz. Made in procreate. <a href="https://jotzilla.net/how-to-use-blockchain-in-the-metaverse/">latest article</a></code>
+<code>☝️ chipfuzz. Made in procreate. <a href="https://wr8.in/">start wr8.in</a></code>
   </p>
 </p>
 <!--
