@@ -17,7 +17,7 @@
   </a>
   </p>
   <p>  
-  <a href="https://verfasor.com/spotify/next.txt"><img alt="spotify" src="https://u88.in/spotify.png" /></a>
+  <a href="https://verfasor.com/spotify/next.txt"><img alt="spotify" src="https://verfasor.com/sqr" /></a>
   <br>
 <code><a href="https://wr8.in/">start wr8.in</a></code>
   </p>
