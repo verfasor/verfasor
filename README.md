@@ -1,8 +1,8 @@
 <p>
-  <h2 align="center">
+  <h2>
     👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://verfasor.com/">Verfasor</a>
   </h2>
-  <p align="center">  
+  <p>  
    <a href="https://github.com/migftw">
     <img src="https://img.shields.io/badge/github-migftw-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/linkedin-mighil-0072B1?logo=linkedin&style=flat-square" />
   </a>
   </p>
-  <p align="center">  
-  <a href="https://verfasor.com/"><img alt="Mr. chipfuzz" src="https://res.cloudinary.com/mighil/image/upload/v1643212375/jotzilla/pages/mighil-resume.png" /></a>
+  <p>  
+  <a href="https://verfasor.com/spotify/next.txt"><img alt="spotify" src="https://verfasor.com/spotify/spotify.png" /></a>
   <br>
-<code>☝️ chipfuzz. Made in procreate. <a href="https://wr8.in/">start wr8.in</a></code>
+<code><a href="https://wr8.in/">start wr8.in</a></code>
   </p>
 </p>
 <!--
