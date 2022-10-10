@@ -1,25 +1,19 @@
-<p>
-  <h2>
-    👋 Hello there, I'm <a href="https://github.com/migftw">Mighil</a> a.k.a. <a href="https://verfasor.com/">Verfasor</a>
-  </h2>
-  <p>  
-   <a href="https://github.com/migftw">
-    <img src="https://img.shields.io/badge/github-migftw-211F1F?logo=github&logoColor=white&style=flat-square" />
-  </a>
-   <a href="https://github.com/verfasor">
-    <img src="https://img.shields.io/badge/github-verfasor-333333?logo=github&logoColor=white&style=flat-square" />
-  </a>  
-  <a href="https://verfasor.com/">
-    <img src="https://img.shields.io/badge/website-verfasor.com-211F1F?logo=react&logoColor=pink&style=flat-square" />
-  </a>  
-  <a href="https://www.linkedin.com/in/mighil">
-    <img src="https://img.shields.io/badge/linkedin-mighil-0072B1?logo=linkedin&style=flat-square" />
-  </a>
-  </p>
-  <p>  
-  <a href="https://verfasor.com/sqr"><img alt="spotify" src="https://verfasor.com/sqr?hmnrsmljfk" /></a>
-  <br>
-<code><a href="https://wr8.in/">start wr8.in</a></code>
-  </p>
-</p>
+### 👋 Hello there, I'm Mighil
+Music producer and digital native. Currently leading the content and marketing operations at HeyForm and TinySnap. 
+
+Is hard-synth + cool riffs + dubstep your ting? Try [VOL I](https://signalsiren.bandcamp.com/album/vol-i) 
+
+### Elsewhere
+
+| Website  |  URL |
+|---|---|
+| Blog | [verfasor.com](https://verfasor.com/) |
+| Bandcamp | [SIGNALSIREN](https://signalsiren.bandcamp.com/) |
+| Bandcamp | [m1net](https://m1qnet.bandcamp.com/) |
+| Twitter | [@verfasor](https://twitter.com/verfasor) |
+| GitHub Community  | [@verfasor](https://github.com/verfasor) |
+| Wr8  | [wr8.in](https://wr8.in) |
  
+ ### Now playing/recently played
+ 
+ [![Spotify](https://spotify.verfasor.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/26ebgs4j7j5r8bhfm8ag8ouuz)
