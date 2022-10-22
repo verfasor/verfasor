@@ -1,8 +1,8 @@
 <p>
-  <h3>👋 Hello there, I'm Mighil</h3>
-<p dir="auto">I’m a music producer and digital native based out of Chengdu, China, currently leading the full-stack marketing operations at HeyForm and TinySnap. Is hard-synth + cool riffs + dubstep your thing? Try <a href="https://signalsiren.bandcamp.com/album/vol-i">VOL I</a></p>
+  <h3 align="center">👋 Hello there, I'm Mighil</h3>
+<p align="center" dir="auto">I’m a music producer and digital native based out of Chengdu, China, currently leading the full-stack marketing operations at HeyForm and TinySnap. Is hard-synth + cool riffs + dubstep your thing? Try <a href="https://signalsiren.bandcamp.com/album/vol-i">VOL I</a></p>
  
-<p> 
+<p align="center"> 
   <a href="https://mp.mt/">
     <img src="https://img.shields.io/badge/whois-mp.mt-red" />
   </a>  
@@ -23,5 +23,6 @@
 </a>  
 </p> 
 
-<img style="width:50%;" src="https://spotify.verfasor.com/api/spotify">
- 
+<p align="center"> 
+<img align="center" style="width:50%;" src="https://spotify.verfasor.com/api/spotify">
+ </p>
