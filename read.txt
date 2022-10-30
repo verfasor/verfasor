@@ -3,3 +3,7 @@ https://www.typewolf.com/top-10-serif-fonts
 https://www.folkstalk.com/tech/how-to-upload-files-and-folders-with-pygithub-with-code-examples/
 https://www.baeldung.com/linux/cd-command-bash-script
 https://sive.rs/book
+https://pypi.org/project/pytz/
+https://nav.al/happiness
+https://nav.al/ideas
+https://sahillavingia.com/reflecting
