@@ -15,6 +15,3 @@ https://en.m.wikipedia.org/wiki/Cold_in_July_(film)
 https://en.m.wikipedia.org/wiki/We_Are_What_We_Are_(2013_film)
 https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/
 https://oceanservice.noaa.gov/facts/lidar.html
-
-google.com
-https://stackoverflow.com/questions/24346872/python-equivalent-of-a-given-wget-command
