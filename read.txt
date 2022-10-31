@@ -7,3 +7,6 @@ https://pypi.org/project/pytz/
 https://nav.al/happiness
 https://nav.al/ideas
 https://sahillavingia.com/reflecting
+https://color.a11y.com/
+https://kickpoint.ca/the-readability-formula-making-your-website-easy-to-read/
+https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/
