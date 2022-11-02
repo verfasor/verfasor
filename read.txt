@@ -24,5 +24,4 @@ https://www.indiantypefoundry.com/
 https://serverfault.com/questions/87472/how-to-create-a-cron-job-that-runs-on-the-first-day-of-month
 https://docs.oracle.com/cd/E19455-01/805-7229/6j6q8svfo/index.html
 https://stackoverflow.com/questions/8727935/execute-python-script-via-crontab
-
 https://askubuntu.com/questions/419548/how-to-set-up-a-root-cron-job-properly
