@@ -21,7 +21,3 @@ https://www.youtube.com/watch?v=foahTqz7On4
 https://en.wikipedia.org/wiki/The_Boondocks_(2005_TV_series)
 https://www.kereru.io/
 https://www.indiantypefoundry.com/
-https://docs.oracle.com/cd/E19455-01/805-7229/6j6q8svfo/index.html
-https://serverfault.com/questions/87472/how-to-create-a-cron-job-that-runs-on-the-first-day-of-month
-https://stackoverflow.com/questions/8727935/execute-python-script-via-crontab
-https://serverfault.com/questions/87472/how-to-create-a-cron-job-that-runs-on-the-first-day-of-month
