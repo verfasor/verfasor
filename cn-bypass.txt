@@ -5,6 +5,13 @@ mzstatic.com
 entrust.net
 digicert.com
 verisign.net
+www.zhipin.com
+zhipin.com
+taobao.com
+www.taobao.com
+heyooo.feishu.cn
+feishu.cn
+grammarly.com
 apple
 itunes-apple.com.akadns.net
 cdn-apple.com.akadns.net
