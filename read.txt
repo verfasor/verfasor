@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+<title>Praise for Bear | ᕕ( ᐛ )ᕗ Herman&#x27;s blog</title>
+<link rel="canonical" href="https://herman.bearblog.dev/praise-for-bear/">
+<meta name="herman" content="look-for-the-bear-necessities">
+
+<meta name="title" content="Praise for Bear">
+<meta name="description" content="A compilation of really nice compliments about Bear">
+
+<meta property="og:site_name" content="ᕕ( ᐛ )ᕗ Herman&#x27;s blog">
+<meta property="og:title" content="Praise for Bear">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://herman.bearblog.dev/praise-for-bear/">
+<meta property="og:description" content="A compilation of really nice compliments about Bear">
+<meta property="og:image" content="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png">
+
+<meta property="twitter:card" content="summary">
+<meta property="twitter:url" content="https://herman.bearblog.dev/praise-for-bear/">
+<meta property="twitter:title" content="Praise for Bear">
+<meta property="twitter:description" content="A compilation of really nice compliments about Bear">
+<meta property="twitter:image" content="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png">
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "article",
+    "name": "Praise for Bear",
+    "url": "https://herman.bearblog.dev/praise-for-bear/",
+    "description": "A compilation of really nice compliments about Bear",
+    "about": {
+      "@type": "Praise for Bear",
+      "description": "A compilation of really nice compliments about Bear"
+    }
+  }
+</script>
+<link rel="shortcut icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E🐨%3C/text%3E%3C/svg%3E">
+<style>
+      
+      
+
+:root {
+    --width: 720px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #fff;
+    --heading-color: #222;
+    --text-color: #444;
+    --link-color: #3273dc;
+    --visited-color:  #8b6fcb;
+    --code-background-color: #f2f2f2;
+    --code-color: #222;
+    --blockquote-color: #222;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #01242e;
+        --heading-color: #eee;
+        --text-color: #ddd;
+        --link-color: #8cc2dd;
+        --visited-color:  #8b6fcb;
+        --code-background-color: #000;
+        --code-color: #ddd;
+        --blockquote-color: #ccc;
+    }
+}
+
+body {
+    font-family: var(--font-secondary);
+    font-size: var(--font-scale);
+    margin: auto;
+    padding: 20px;
+    max-width: var(--width);
+    text-align: left;
+    background-color: var(--background-color);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
+}
+
+a {
+    color: var(--link-color);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+nav a {
+    margin-right: 8px;
+}
+
+strong, b {
+    color: var(--heading-color);
+}
+
+button {
+    margin: 0;
+    cursor: pointer;
+}
+
+main {
+    line-height: 1.6;
+}
+
+table {
+    width: 100%;
+}
+
+hr {
+    border: 0;
+    border-top: 1px dashed;
+}
+
+img {
+    max-width: 100%;
+}
+
+code {
+    font-family: monospace;
+    padding: 2px;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    border-radius: 3px;
+}
+
+blockquote {
+    border-left: 1px solid #999;
+    color: var(--code-color);
+    padding-left: 20px;
+    font-style: italic;
+}
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+}
+
+.title:hover {
+    text-decoration: none;
+}
+
+.title h1 {
+    font-size: 1.5em;
+}
+
+.inline {
+    width: auto !important;
+}
+
+.highlight, .code {
+    padding: 1px 15px;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    border-radius: 3px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    overflow-x: auto;
+}
+
+/* blog post list */
+ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+}
+
+ul.blog-posts li {
+    display: flex;
+}
+
+ul.blog-posts li span {
+    flex: 0 0 130px;
+}
+
+ul.blog-posts li a:visited {
+    color: var(--visited-color);
+}
+.upvote-button {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: inherit;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.upvote-button.upvoted {
+    color: salmon;
+}
+.upvote-count {
+    margin-top: -3px;
+}
+
+body:hover {
+    border-image: url("/hit/18668/");
+    border-width: 0;
+}
+
+
+      
+  </style>
+</head>
+<body class="post ">
+<header>
+<a class="title" href="/">
+<h1>
+ᕕ( ᐛ )ᕗ Herman&#x27;s blog
+</h1>
+</a>
+<nav>
+<p><a href="/">Home</a> <a href="/projects/">Projects</a> <a href="/podcast/">Podcast</a> <a href="/blog/">Blog</a></p>
+</nav>
+</header>
+<main>
+<h1>
+Praise for Bear
+</h1>
+<p>
+<i>
+<time datetime="2022-08-30">
+30 Aug, 2022
+</time>
+</i>
+</p>
+<p>Since the inception of <a href="https://bearblog.dev">Bear</a> I've received many wholesome emails about the platform. I've decided to compile a list of these to revisit whenever I feel demotivated.</p>
+<hr/>
+<h3 id="09-october-2023-abhi">09 October, 2023 - Abhi</h3>
+<blockquote>
+<p>You have created a writer's dream. I can't tell you the number of people I have already recommended it to. The simplicity of the platform is admirable and inspiring. And I can imagine the complexity of work that you would've put in to bring this simplicity to life.</p>
+</blockquote>
+<h3 id="27-september-2023-mark">27 September, 2023 - Mark</h3>
+<blockquote>
+<p>Thanks for all that you do with Bear Blog. Over the past few days, I have read so many interesting & lovely posts on the discover feed. I've also read several of yours and found them to be very insightful.<br/>
+I now have a place write my more personal thoughts.</p>
+</blockquote>
+<h3 id="30-august-2023-peter">30 August, 2023 - Peter</h3>
+<blockquote>
+<p>I’m really impressed by what you’re doing with Bearblog—definitely going to take the platform for a spin. In particular, I think the discover feature is brilliantly executed. What also stands out to me is the sheer performance and clean, lightweight nature of the service. It’s a breath of fresh air amongst a web full of so many bloated websites these days.</p>
+</blockquote>
+<h3 id="23-august-2023-hazy">23 August, 2023 - Hazy</h3>
+<blockquote>
+<p>Thank you for providing a valuable service that has been lacking - a blog that really feels like your own personal website, not just a profile. :) I like how the blog actually feels like my blog.</p>
+</blockquote>
+<h3 id="21-august-2023-maurice">21 August, 2023 - Maurice</h3>
+<blockquote>
+<p>Sorry for the random DM but I had been going back and forth in my mind about spinning up a blog and what template/framework/cms/whatever-tech to use and then decided to try out Bear blog 😄 So damn happy I did too! I wanted something straight forward for myself and this is honestly perfect
+Hopefully I end up doing some more writing 🤞
+Just wanted to drop a message to say hello and thanks for building it!</p>
+</blockquote>
+<h3 id="19-june-2023-timo">19 June, 2023 - Timo</h3>
+<blockquote>
+<p>Keep up the great work, Herman. You are providing something really unique and helping build a better Internet.</p>
+</blockquote>
+<h3 id="17-may-2023-derek">17 May, 2023 - Derek</h3>
+<blockquote>
+<p>Love Bear Blog. It's what got me going from talking about blogging to actually doing it!</p>
+</blockquote>
+<h3 id="14-may-2023-andrew">14 May, 2023 - Andrew</h3>
+<blockquote>
+<p>thanks for making a cool thing and putting it online. i've found a lot of value in journaling myself, and i appreciate when i come across someone like you making stuff and blogging, without sweating the "SEO and social media" angles of it all. props and keep up the good work!</p>
+</blockquote>
+<h3 id="17-january-2023-jason">17 January, 2023 - Jason</h3>
+<blockquote>
+<p>I needed a quick and easy blog to publish notes to and decided to try out Bear Blog. I usually use a Kirby CMS that I self-host but had trouble logging in on my phone. Since I needed to post something immediately I signed up with Bear and got my blog up. I love the markdown based editor and how quickly everything loads. I’m totally on board with a tiny internet so I’m glad this exists. I don’t have any critiques. Thanks for creating Bear Blog.</p>
+</blockquote>
+<h3 id="30-november-2022-jay">30 November, 2022 - Jay</h3>
+<blockquote>
+<p>Thank you for the platform you've created. I love the philosophy behind it and it really resonates with me.</p>
+</blockquote>
+<h3 id="24-november-2022-david">24 November, 2022 - David</h3>
+<blockquote>
+<p>I absolutely love the simplicity and beauty of the system. You're building something really amazing.</p>
+</blockquote>
+<h3 id="21-november-2022-marc">21 November, 2022 - Marc</h3>
+<blockquote>
+<p>Bearblog is exactly the minimalist tool I was searching for. Thanks for providing it!</p>
+</blockquote>
+<h3 id="19-november-2022-seb">19 November, 2022 - Seb</h3>
+<blockquote>
+<p>I just wanted to say thanks for making and continuing to work on Bear – I don't have a blog (yet), but just as a reader it's such a breath of fresh air compared to most of the internet. You really are making the web a nicer place to be :)</p>
+</blockquote>
+<h3 id="14-november-2022-jyotsna">14 November, 2022 - Jyotsna</h3>
+<blockquote>
+<p>I resonate with your ideology and the intentions you have with Bear. Thank you for making some space for me in your garden.</p>
+</blockquote>
+<h3 id="9-october-2022-patrick">9 October, 2022 - Patrick</h3>
+<blockquote>
+<p>I would just like to thank you for your work on Bear blog. Its minimal, text-focused approach makes a nice change.</p>
+</blockquote>
+<h3 id="5-september-2022-jonathan">5 September, 2022 - Jonathan</h3>
+<blockquote>
+<p>Thank you for developing Bear Blog. I really like the simplicity and minimal approach that foregrounds blog content over design tricks. It is a very refreshing approach.</p>
+</blockquote>
+<h3 id="25-august-2022-aravind">25 August, 2022 - Aravind</h3>
+<blockquote>
+<p>Bear feels like meeting a long-lost friend.. or a part of myself that I missed for about a decade. I feel at home reading posts on Bear. It's very cozy, it's warm, it feels like curling up with a book on a rainy day. It feels like sanctuary where there is a beautiful silence but with a spirit of life and love filling the air. Thank you, Herman.</p>
+</blockquote>
+<h3 id="19-august-2022-dario">19 August, 2022 - Dario</h3>
+<blockquote>
+<p>Thanks for building such a cool platform!</p>
+</blockquote>
+<h3 id="13-july-2022-julian">13 July, 2022 - Julian</h3>
+<blockquote>
+<p>Just wanted to send you a quick email because I really love Bearblog! I recently created a blog on it and donated and I've really been loving the experience. The simplicity of using it and the UI are great. I love the feel of it and it seems to have a great community around it too. I tried making a blog with wordpress before but found it too complicated and bloated. Your platform is amazing and I love the feel and character of it. Great job!</p>
+</blockquote>
+<h3 id="9-july-2022-daft-chuck">9 July, 2022 - Daft Chuck</h3>
+<blockquote>
+<p>I've been lurking on Bear Blog quite a bit, and I've developed an appreciation for it. I really like what you're doing with it. Thank you for keeping Bear free! Keep up the good work! You know this better than I do, but Bear has already developed its own culture. The blank slate of the platform enables people to express their true selves in a way I haven't seen before. I see longer and higher quality posts mixed in with daily status updates that are four sentences long yet still manage to have meaning.</p>
+</blockquote>
+<h3 id="6-may-2022-bob">6 May, 2022 - Bob</h3>
+<blockquote>
+<p>Just wanted to say that I've just started playing around with Bear Blog, and it's so much of what I have been looking for (in that it's the perfect amount of little). I've been blogging since the early 00s and this is what I've been looking for ever since I stopped back in 2015. And, <em>thank you</em> for markdown!</p>
+</blockquote>
+<h3 id="7-march-2022-jakub">7 March, 2022 - Jakub</h3>
+<blockquote>
+<p>I recently came across bearblog.dev and let me be honest - it is super awesome! I used to use WordPress and found out that there are other solutions like bearblog.dev and writefreely.</p>
+</blockquote>
+<h3 id="20-november-2021-william">20 November, 2021 - William</h3>
+<blockquote>
+<p>I’ve just found and started using bear blog. Well done. I was looking for something simple (without going back to coding my own separate HTML pages) yet flexible.</p>
+</blockquote>
+<h3 id="2-july-2021-victor">2 July, 2021 - Victor</h3>
+<blockquote>
+<p>Hope this email finds you. Recently started using Bear blog, it is an awesome product. I am a student from a village in India, the internet speed is a bit slow, but bear blog is fast, it is simple and easy to use. Keep up the good work Herman!</p>
+</blockquote>
+<h3 id="26-june-2021-dirk">26 June, 2021 - Dirk</h3>
+<blockquote>
+<p>Thank you for such a great product - your passion for it is inspiring.</p>
+</blockquote>
+<h3 id="16-april-2021-sean">16 April, 2021 - Sean</h3>
+<blockquote>
+<p>I was on StumblingOn, came across Bear through it and love it. I got stunted on hobbies months ago because of mental issues and seeing your constant flow of journals and projects you make is so inspiring.</p>
+</blockquote>
+<h3 id="thanks-everyone-for-the-kind-words-they-really-do-make-a-difference">Thanks everyone for the kind words. They really do make a difference.</h3>
+<form id="upvote-form" action="/upvote/18668/" method="post" style="display: inline">
+<small>
+<input hidden name="pk" value="18668" style="display:none">
+<input hidden name="title" style="display:none">
+<input type="hidden" name="csrfmiddlewaretoken" value="SrnkXa4Nib33B1QlnbVc04u3BkMk5mjcRliOGa1q84LRfCd42a0XkdqL1bAacxKJ">
+<button class="upvote-button" title="Toast this post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1">
+<polyline points="17 11 12 6 7 11"></polyline>
+<polyline points="17 18 12 13 7 18"></polyline>
+</svg>
+<small class="upvote-count">126</small>
+</button>
+</small>
+</form>
+<script>
+    document.querySelector('#upvote-form').addEventListener('submit', (e) => {
+        e.preventDefault();
+        const form = e.target;
+        fetch(form.action, {
+            method: form.method,
+            body: new FormData(form),
+        });
+        const button = form.querySelector('button')
+        button.disabled = true
+        button.style.color = "salmon"
+        const upvoteCount = document.querySelector('.upvote-count')
+        upvoteCount.innerHTML = `${(parseInt(upvoteCount.innerHTML.split(" ")[0]) + 1)}`
+    });
+</script>
+</main>
+<footer style="padding:25px 0;">
+<span>
+Made with <a href="https://bearblog.dev">Bear ʕ•ᴥ•ʔ</a>
+</span>
+</footer>
+</body>
+</html>
+https://herman.bearblog.dev/praise-for-bear/
