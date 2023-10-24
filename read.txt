@@ -43,5 +43,4 @@ https://plugins.miniorange.com/wordpress-oauth-server
 https://www.indiehackers.com/post/why-i-hate-the-indie-hackers-community-on-twitter-f4d12cf1c1
 https://web.whatsapp.com/
 https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/
-
-save https://mgx.bearblog.dev/
+https://mgx.bearblog.dev/
